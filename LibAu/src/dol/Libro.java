@@ -44,6 +44,6 @@ public class Libro {
     }
     @Override
     public String toString(){
-        return "Titulo="+titulo+"\nEditorial="+editorial+"\nEdicion"+edicion+"\nAño de publicación"+año;
+        return "Titulo="+titulo+"\nEditorial="+editorial+"\nEdicion="+edicion+"\nAño de publicación="+año;
     }
 }
